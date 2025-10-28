@@ -1,4 +1,4 @@
-# 🧠 Q12 - Visualizing Feature Maps and Filters  
+# Visualizing Feature Maps and Filters  
 **Course:** Deep Learning  
 **Instructor:** Dr. Osama  
 **Student:** Qasim Naveed  
